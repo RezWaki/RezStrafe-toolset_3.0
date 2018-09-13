@@ -1,4 +1,7 @@
 # RezStrafe-toolset_3.0
+
+[Bitbucket mirror](https://bitbucket.org/rezzzwaq/rezstrafe-toolset_3.0)
+
 Some updates/fixes:
 
 *Fixed speedhack, it works now properly*
