@@ -1,17 +1,18 @@
 # RezStrafe-toolset_3.0
 Some updates/fixes:
-*Fixed speedhack, it works now properly
 
-*Added possibility of hide duckbug message
+*Fixed speedhack, it works now properly*
 
-*Added speedhack speed setting up
+*Added possibility of hide duckbug message*
+
+*Added speedhack speed setting up*
 
 *Speedhack is now 4-way (x1, x2, y1, y2)
-Use rez_speedhack 1/2/3/4 - 0 disable
+Use rez_speedhack 1/2/3/4 - 0 disable*
 
-*Added possibility of change armor value
+*Added possibility of change armor value*
 
-*All cvars list:
+*All cvars list:*
 
 rez_addhealth
 
